@@ -1,0 +1,23 @@
+.aboutBackground{
+    background-color:#141414;
+    height: 100vh;
+
+}
+
+.navBarStyle{
+    background-color: #00a693;
+    width: 100%;
+}
+
+.navBardisplay{
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+}
+
+.navBardisplay li{
+    margin: 20px;
+   list-style: none;
+    font-size: 1.2em;
+    color:white;
+}
